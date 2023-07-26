@@ -1,1 +1,1 @@
-# Road-Accident-Dahboard-using-Microsoft-Excel
+In this project, I collected data from client, and identified the Stakeholders of the project. Here I performed data cleaning as per the requirement, data processing by adding some customized columns in data, data analysis using pivot tables, and excel functions, and data visualization to extract the insights.
